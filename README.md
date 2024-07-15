@@ -26,35 +26,35 @@ Andrew Ng's Deep Learning Specialization assignments
 
 
 ### 02_Improving Deep Neural Networks
-1. Initialization
-2. Regularization
-3. Gradient_Checking
-4. Optimization_methods
-5. Tensorflow_introduction
+1. [Initialization](https://github.com/kevin89224/Coursera-Deep-Learning-Specialization/blob/main/02_Improving%20Deep%20Neural%20Networks/1_Initialization.ipynb)
+2. [Regularization](https://github.com/kevin89224/Coursera-Deep-Learning-Specialization/blob/main/02_Improving%20Deep%20Neural%20Networks/2_Regularization.ipynb)
+3. [Gradient_Checking](https://github.com/kevin89224/Coursera-Deep-Learning-Specialization/blob/main/02_Improving%20Deep%20Neural%20Networks/3_Gradient_Checking.ipynb)
+4. [Optimization_methods](https://github.com/kevin89224/Coursera-Deep-Learning-Specialization/blob/main/02_Improving%20Deep%20Neural%20Networks/4_Optimization_methods.ipynb)
+5. [Tensorflow_introduction](https://github.com/kevin89224/Coursera-Deep-Learning-Specialization/blob/main/02_Improving%20Deep%20Neural%20Networks/5_Tensorflow_introduction.ipynb)
 
 ### 03_Structuring Machine Learning Projects
 
 ### 04_Convolutional Neural Networks
-1. Convolution_model_Step_by_Step_v1
-2. Convolution_model_Application
-3. Residual_Networks
-4. Transfer_learning_with_MobileNet_v1
-5. Autonomous_driving_application_Car_detection
-6. Image_segmentation_Unet_v2
-7. Face_Recognition
-8. Art_Generation_with_Neural_Style_Transfer
+1. [Convolution_model_Step_by_Step_v1]()
+2. [Convolution_model_Application]()
+3. [Residual_Networks]()
+4. [Transfer_learning_with_MobileNet_v1]()
+5. [Autonomous_driving_application_Car_detection]()
+6. [Image_segmentation_Unet_v2]()
+7. [Face_Recognition]()
+8. [Art_Generation_with_Neural_Style_Transfer]()
 
 ### 05_Sequence Models
-1. Building_a_Recurrent_Neural_Network_Step_by_Step
-2. Dinosaurus_Island_Character_level_language_model
-3. Improvise_a_Jazz_Solo_with_an_LSTM_Network_v4
-4. Operations_on_word_vectors_v2a
-5. Emoji_v3a
-6. Neural_machine_translation_with_attention_v4a
-7. Trigger_word_detection_v2a
-8. Transformer_Subclass_v1
-9. Embedding_plus_Positional_encoding
-10. Transformer_application_Named_Entity_Recognition
-11. QA_dataset
+1. [Building_a_Recurrent_Neural_Network_Step_by_Step]()
+2. [Dinosaurus_Island_Character_level_language_model]()
+3. [Improvise_a_Jazz_Solo_with_an_LSTM_Network_v4]()
+4. [Operations_on_word_vectors_v2a]()
+5. [Emoji_v3a]()
+6. [Neural_machine_translation_with_attention_v4a]()
+7. [Trigger_word_detection_v2a]()
+8. [Transformer_Subclass_v1]()
+9. [Embedding_plus_Positional_encoding]()
+10. [Transformer_application_Named_Entity_Recognition]()
+11. [QA_dataset]()
 
 希望你也可以享受這堂課帶給你的知識，並享受其中！
