@@ -51,9 +51,9 @@ Andrew Ng's Deep Learning Specialization assignments
 4. [Operations_on_word_vectors_v2a](https://github.com/kevin89224/Coursera-Deep-Learning-Specialization/blob/main/05_Sequence%20Models/4_Operations_on_word_vectors_v2a.ipynb)
 5. [Emoji_v3a](https://github.com/kevin89224/Coursera-Deep-Learning-Specialization/blob/main/05_Sequence%20Models/5_Emoji_v3a.ipynb)
 6. [Neural_machine_translation_with_attention_v4a](https://github.com/kevin89224/Coursera-Deep-Learning-Specialization/blob/main/05_Sequence%20Models/6_Neural_machine_translation_with_attention_v4a.ipynb)
-7. [Trigger_word_detection_v2a]()
-8. [Transformer_Subclass_v1]()
-9. [Embedding_plus_Positional_encoding]()
+7. [Trigger_word_detection_v2a](https://github.com/kevin89224/Coursera-Deep-Learning-Specialization/blob/main/05_Sequence%20Models/7_Trigger_word_detection_v2a.ipynb)
+8. [Transformer_Subclass_v1](https://github.com/kevin89224/Coursera-Deep-Learning-Specialization/blob/main/05_Sequence%20Models/8_Transformer_Subclass_v1.ipynb)
+9. [Embedding_plus_Positional_encoding](https://github.com/kevin89224/Coursera-Deep-Learning-Specialization/blob/main/05_Sequence%20Models/9_Embedding_plus_Positional_encoding.ipynb)
 10. [Transformer_application_Named_Entity_Recognition](https://github.com/kevin89224/Coursera-Deep-Learning-Specialization/blob/main/05_Sequence%20Models/10_Transformer_application_Named_Entity_Recognition.ipynb)
 11. [QA_dataset](https://github.com/kevin89224/Coursera-Deep-Learning-Specialization/blob/main/05_Sequence%20Models/11_QA_dataset.ipynb)
 
