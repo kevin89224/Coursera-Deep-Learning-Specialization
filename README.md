@@ -35,26 +35,26 @@ Andrew Ng's Deep Learning Specialization assignments
 ### 03_Structuring Machine Learning Projects
 
 ### 04_Convolutional Neural Networks
-1. [Convolution_model_Step_by_Step_v1]()
-2. [Convolution_model_Application]()
-3. [Residual_Networks]()
-4. [Transfer_learning_with_MobileNet_v1]()
-5. [Autonomous_driving_application_Car_detection]()
-6. [Image_segmentation_Unet_v2]()
-7. [Face_Recognition]()
-8. [Art_Generation_with_Neural_Style_Transfer]()
+1. [Convolution_model_Step_by_Step_v1](https://github.com/kevin89224/Coursera-Deep-Learning-Specialization/blob/main/04_Convolutional%20Neural%20Networks/1_Convolution_model_Step_by_Step_v1.ipynb)
+2. [Convolution_model_Application](https://github.com/kevin89224/Coursera-Deep-Learning-Specialization/blob/main/04_Convolutional%20Neural%20Networks/2_Convolution_model_Application.ipynb)
+3. [Residual_Networks](https://github.com/kevin89224/Coursera-Deep-Learning-Specialization/blob/main/04_Convolutional%20Neural%20Networks/3_Residual_Networks.ipynb)
+4. [Transfer_learning_with_MobileNet_v1](https://github.com/kevin89224/Coursera-Deep-Learning-Specialization/blob/main/04_Convolutional%20Neural%20Networks/4_Transfer_learning_with_MobileNet_v1.ipynb)
+5. [Autonomous_driving_application_Car_detection](https://github.com/kevin89224/Coursera-Deep-Learning-Specialization/blob/main/04_Convolutional%20Neural%20Networks/5_Autonomous_driving_application_Car_detection.ipynb)
+6. [Image_segmentation_Unet_v2](https://github.com/kevin89224/Coursera-Deep-Learning-Specialization/blob/main/04_Convolutional%20Neural%20Networks/6_Image_segmentation_Unet_v2.ipynb)
+7. [Face_Recognition](https://github.com/kevin89224/Coursera-Deep-Learning-Specialization/blob/main/04_Convolutional%20Neural%20Networks/7_Face_Recognition.ipynb)
+8. [Art_Generation_with_Neural_Style_Transfer](https://github.com/kevin89224/Coursera-Deep-Learning-Specialization/blob/main/04_Convolutional%20Neural%20Networks/8_Art_Generation_with_Neural_Style_Transfer.ipynb)
 
 ### 05_Sequence Models
-1. [Building_a_Recurrent_Neural_Network_Step_by_Step]()
-2. [Dinosaurus_Island_Character_level_language_model]()
-3. [Improvise_a_Jazz_Solo_with_an_LSTM_Network_v4]()
-4. [Operations_on_word_vectors_v2a]()
-5. [Emoji_v3a]()
-6. [Neural_machine_translation_with_attention_v4a]()
+1. [Building_a_Recurrent_Neural_Network_Step_by_Step](https://github.com/kevin89224/Coursera-Deep-Learning-Specialization/blob/main/05_Sequence%20Models/1_Building_a_Recurrent_Neural_Network_Step_by_Step.ipynb)
+2. [Dinosaurus_Island_Character_level_language_model](https://github.com/kevin89224/Coursera-Deep-Learning-Specialization/blob/main/05_Sequence%20Models/2_Dinosaurus_Island_Character_level_language_model.ipynb)
+3. [Improvise_a_Jazz_Solo_with_an_LSTM_Network_v4](https://github.com/kevin89224/Coursera-Deep-Learning-Specialization/blob/main/05_Sequence%20Models/3_Improvise_a_Jazz_Solo_with_an_LSTM_Network_v4.ipynb)
+4. [Operations_on_word_vectors_v2a](https://github.com/kevin89224/Coursera-Deep-Learning-Specialization/blob/main/05_Sequence%20Models/4_Operations_on_word_vectors_v2a.ipynb)
+5. [Emoji_v3a](https://github.com/kevin89224/Coursera-Deep-Learning-Specialization/blob/main/05_Sequence%20Models/5_Emoji_v3a.ipynb)
+6. [Neural_machine_translation_with_attention_v4a](https://github.com/kevin89224/Coursera-Deep-Learning-Specialization/blob/main/05_Sequence%20Models/6_Neural_machine_translation_with_attention_v4a.ipynb)
 7. [Trigger_word_detection_v2a]()
 8. [Transformer_Subclass_v1]()
 9. [Embedding_plus_Positional_encoding]()
-10. [Transformer_application_Named_Entity_Recognition]()
-11. [QA_dataset]()
+10. [Transformer_application_Named_Entity_Recognition](https://github.com/kevin89224/Coursera-Deep-Learning-Specialization/blob/main/05_Sequence%20Models/10_Transformer_application_Named_Entity_Recognition.ipynb)
+11. [QA_dataset](https://github.com/kevin89224/Coursera-Deep-Learning-Specialization/blob/main/05_Sequence%20Models/11_QA_dataset.ipynb)
 
 希望你也可以享受這堂課帶給你的知識，並享受其中！
