@@ -18,11 +18,12 @@ Andrew Ng's Deep Learning Specialization assignments
 
 ## 作業
 ### 01_Neural Networks and Deep Learning
-[1. Python_Basics_with_Numpy](https://github.com/kevin89224/Coursera-Deep-Learning-Specialization/blob/main/01_Neural%20Networks%20and%20Deep%20Learning/1_Python_Basics_with_Numpy.ipynb)
-2. Logistic_Regression_with_a_Neural_Network_mindset
-3. Planar_data_classification_with_one_hidden_layer
-4. Building_your_Deep_Neural_Network_Step_by_Step
-5. Deep Neural Network - Application
+1. [Python_Basics_with_Numpy](https://github.com/kevin89224/Coursera-Deep-Learning-Specialization/blob/main/01_Neural%20Networks%20and%20Deep%20Learning/1_Python_Basics_with_Numpy.ipynb)
+2. [Logistic_Regression_with_a_Neural_Network_mindset](https://github.com/kevin89224/Coursera-Deep-Learning-Specialization/blob/main/01_Neural%20Networks%20and%20Deep%20Learning/2_Logistic_Regression_with_a_Neural_Network_mindset.ipynb)
+3. [Planar_data_classification_with_one_hidden_layer](https://github.com/kevin89224/Coursera-Deep-Learning-Specialization/blob/main/01_Neural%20Networks%20and%20Deep%20Learning/3_Planar_data_classification_with_one_hidden_layer.ipynb)
+4. [Building_your_Deep_Neural_Network_Step_by_Step](https://github.com/kevin89224/Coursera-Deep-Learning-Specialization/blob/main/01_Neural%20Networks%20and%20Deep%20Learning/4_Building_your_Deep_Neural_Network_Step_by_Step.ipynb)
+5. [Deep Neural Network - Application](https://github.com/kevin89224/Coursera-Deep-Learning-Specialization/blob/main/01_Neural%20Networks%20and%20Deep%20Learning/5_Deep%20Neural%20Network%20-%20Application.ipynb)
+
 
 ### 02_Improving Deep Neural Networks
 1. Initialization
