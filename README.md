@@ -18,7 +18,7 @@ Andrew Ng's Deep Learning Specialization assignments
 
 ## 作業
 ### 01_Neural Networks and Deep Learning
-1. Python_Basics_with_Numpy
+[1. Python_Basics_with_Numpy](https://github.com/kevin89224/Coursera-Deep-Learning-Specialization/blob/main/01_Neural%20Networks%20and%20Deep%20Learning/1_Python_Basics_with_Numpy.ipynb)
 2. Logistic_Regression_with_a_Neural_Network_mindset
 3. Planar_data_classification_with_one_hidden_layer
 4. Building_your_Deep_Neural_Network_Step_by_Step
